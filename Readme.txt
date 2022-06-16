@@ -1,1 +1,1 @@
-Url:https://github.com/Nivedkp01/PERSONALWEB-NIVEDKP.git
+Url:https://nivedkp01.github.io/PERSONALWEB-NIVEDKP/
