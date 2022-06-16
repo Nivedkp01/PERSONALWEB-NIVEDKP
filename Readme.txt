@@ -1,1 +1,1 @@
-Url:https://jeevanbabu7.github.io/MY-WEB/
+Url:https://github.com/Nivedkp01/PERSONALWEB-NIVEDKP.git
